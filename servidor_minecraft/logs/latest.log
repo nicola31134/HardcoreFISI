@@ -2262,3 +2262,105 @@ chunky reload - Reload configuration
 [01:04:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68827 chunks (48.43%), ETA: 0:46:39, Rate: 26.2 cps, Current: -123, -17
 [01:05:00] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68846 chunks (48.44%), ETA: 0:46:04, Rate: 26.5 cps, Current: -125, -20
 [01:05:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68874 chunks (48.46%), ETA: 0:46:33, Rate: 26.2 cps, Current: -128, -18
+[01:05:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68892 chunks (48.47%), ETA: 0:46:14, Rate: 26.4 cps, Current: -124, -13
+[01:05:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68906 chunks (48.48%), ETA: 0:47:13, Rate: 25.8 cps, Current: -125, -12
+[01:05:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68919 chunks (48.49%), ETA: 0:48:32, Rate: 25.1 cps, Current: -126, -9
+[01:05:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68930 chunks (48.50%), ETA: 0:50:00, Rate: 24.4 cps, Current: -126, -6
+[01:05:07] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68952 chunks (48.51%), ETA: 0:52:24, Rate: 23.3 cps, Current: -125, -4
+[01:05:09] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68990 chunks (48.54%), ETA: 0:51:51, Rate: 23.5 cps, Current: -121, -4
+[01:05:10] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68993 chunks (48.54%), ETA: 0:55:22, Rate: 22.0 cps, Current: -120, -8
+[01:05:11] [Server thread/INFO]: [Chunky] Task running for world. Processed: 68998 chunks (48.55%), ETA: 0:56:01, Rate: 21.8 cps, Current: -119, -6
+[01:05:12] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69015 chunks (48.56%), ETA: 1:02:14, Rate: 19.6 cps, Current: -117, -7
+[01:05:13] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69032 chunks (48.57%), ETA: 1:02:39, Rate: 19.4 cps, Current: -115, -4
+[01:05:14] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69085 chunks (48.61%), ETA: 1:03:23, Rate: 19.2 cps, Current: -120, -12
+[01:05:15] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69096 chunks (48.61%), ETA: 1:04:13, Rate: 19.0 cps, Current: -119, -14
+[01:05:16] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69106 chunks (48.62%), ETA: 1:05:25, Rate: 18.6 cps, Current: -115, -16
+[01:05:18] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69115 chunks (48.63%), ETA: 1:07:19, Rate: 18.1 cps, Current: -114, -16
+[01:05:19] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69146 chunks (48.65%), ETA: 1:05:42, Rate: 18.5 cps, Current: -107, -13
+[01:05:20] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69169 chunks (48.67%), ETA: 1:08:25, Rate: 17.8 cps, Current: -111, -12
+[01:05:21] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69180 chunks (48.67%), ETA: 1:09:25, Rate: 17.5 cps, Current: -108, -9
+[01:05:22] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69211 chunks (48.70%), ETA: 1:10:39, Rate: 17.2 cps, Current: -109, -4
+[01:05:23] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69232 chunks (48.71%), ETA: 1:10:51, Rate: 17.1 cps, Current: -107, -8
+[01:05:24] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69297 chunks (48.76%), ETA: 1:04:46, Rate: 18.7 cps, Current: -99, -5
+[01:05:25] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69340 chunks (48.79%), ETA: 0:59:20, Rate: 20.4 cps, Current: -103, -12
+[01:05:26] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69356 chunks (48.80%), ETA: 1:01:44, Rate: 19.6 cps, Current: -103, -14
+[01:05:28] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69378 chunks (48.81%), ETA: 1:02:23, Rate: 19.4 cps, Current: -97, -18
+[01:05:29] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69404 chunks (48.83%), ETA: 1:02:34, Rate: 19.4 cps, Current: -100, -21
+[01:05:30] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69455 chunks (48.87%), ETA: 0:58:41, Rate: 20.6 cps, Current: -112, -18
+[01:05:31] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69479 chunks (48.88%), ETA: 0:58:55, Rate: 20.6 cps, Current: -111, -22
+[01:05:32] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69612 chunks (48.98%), ETA: 0:49:25, Rate: 24.5 cps, Current: -99, -27
+[01:05:37] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69633 chunks (48.99%), ETA: 0:52:07, Rate: 23.2 cps, Current: -127, 0
+[01:05:39] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69697 chunks (49.04%), ETA: 0:49:52, Rate: 24.2 cps, Current: -120, 0
+[01:05:40] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69732 chunks (49.06%), ETA: 0:48:34, Rate: 24.8 cps, Current: -113, 1
+[01:05:41] [Server thread/INFO]: Chunky Commands
+chunky start - Start a new chunk generation task
+chunky pause - Pause current tasks and save progress
+chunky continue - Continue current or saved tasks
+chunky cancel - Stop and delete current or saved tasks
+chunky world <world> - Set the world target
+chunky worldborder - Use the world border center & radius
+chunky center <x> <z> - Set the center block location
+chunky spawn - Set the center to the spawn point
+chunky radius <radius> - Set the radius
+chunky corners <x1> <z1> <x2> <z2> - Set by corners
+chunky shape <shape> - Set the shape to generate
+chunky pattern <pattern> - Set the generation pattern
+chunky silent - Toggle displaying update messages
+chunky quiet <interval> - Set the quiet interval
+chunky trim - Delete chunks outside selection
+chunky selection - Display the current selection
+chunky progress - Displays current task progress
+chunky reload - Reload configuration
+[01:05:42] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69760 chunks (49.08%), ETA: 0:47:32, Rate: 25.4 cps, Current: -119, 5
+[01:05:43] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69768 chunks (49.09%), ETA: 0:48:15, Rate: 25.0 cps, Current: -119, 9
+[01:05:44] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69797 chunks (49.11%), ETA: 0:50:00, Rate: 24.1 cps, Current: -116, 12
+[01:05:45] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69821 chunks (49.13%), ETA: 0:48:54, Rate: 24.6 cps, Current: -120, 13
+[01:05:46] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69859 chunks (49.15%), ETA: 0:47:04, Rate: 25.6 cps, Current: -124, 13
+[01:05:47] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69866 chunks (49.16%), ETA: 0:47:01, Rate: 25.6 cps, Current: -126, 10
+[01:05:51] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69921 chunks (49.20%), ETA: 0:48:54, Rate: 24.6 cps, Current: -124, 20
+[01:05:52] [Server thread/INFO]: [Chunky] Cancelled tasks cannot be continued. If you are sure you want to cancel, type '/chunky confirm'.
+[01:05:52] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69949 chunks (49.22%), ETA: 0:48:26, Rate: 24.8 cps, Current: -127, 26
+[01:05:53] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69971 chunks (49.23%), ETA: 0:52:12, Rate: 23.0 cps, Current: -127, 29
+[01:05:55] [Server thread/INFO]: [Chunky] Task running for world. Processed: 69994 chunks (49.25%), ETA: 0:54:10, Rate: 22.2 cps, Current: -123, 27
+[01:05:56] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70019 chunks (49.26%), ETA: 0:53:11, Rate: 22.6 cps, Current: -119, 25
+[01:05:57] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70039 chunks (49.28%), ETA: 0:53:01, Rate: 22.7 cps, Current: -119, 30
+[01:05:58] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70054 chunks (49.29%), ETA: 0:53:50, Rate: 22.3 cps, Current: -114, 29
+[01:05:59] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70117 chunks (49.33%), ETA: 0:52:57, Rate: 22.7 cps, Current: -120, 18
+[01:06:01] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70129 chunks (49.34%), ETA: 0:54:15, Rate: 22.1 cps, Current: -116, 19
+[01:06:02] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70140 chunks (49.35%), ETA: 1:06:46, Rate: 18.0 cps, Current: -114, 18
+[01:06:02] [Server thread/INFO]: Chunky Commands
+chunky start - Start a new chunk generation task
+chunky pause - Pause current tasks and save progress
+chunky continue - Continue current or saved tasks
+chunky cancel - Stop and delete current or saved tasks
+chunky world <world> - Set the world target
+chunky worldborder - Use the world border center & radius
+chunky center <x> <z> - Set the center block location
+chunky spawn - Set the center to the spawn point
+chunky radius <radius> - Set the radius
+chunky corners <x1> <z1> <x2> <z2> - Set by corners
+chunky shape <shape> - Set the shape to generate
+chunky pattern <pattern> - Set the generation pattern
+chunky silent - Toggle displaying update messages
+chunky quiet <interval> - Set the quiet interval
+chunky trim - Delete chunks outside selection
+chunky selection - Display the current selection
+chunky progress - Displays current task progress
+chunky reload - Reload configuration
+[01:06:03] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70147 chunks (49.35%), ETA: 1:00:10, Rate: 19.9 cps, Current: -112, 19
+[01:06:04] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70200 chunks (49.39%), ETA: 0:56:38, Rate: 21.2 cps, Current: -112, 21
+[01:06:05] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70211 chunks (49.40%), ETA: 0:58:56, Rate: 20.3 cps, Current: -111, 24
+[01:06:06] [Server thread/INFO]: [Chunky] Task running for world. Processed: 70251 chunks (49.43%), ETA: 0:57:29, Rate: 20.8 cps, Current: -107, 31
+[01:06:07] [Server thread/INFO]: [Chunky] Task paused for world.
+[01:06:07] [Chunky-world Thread/INFO]: [Chunky] Task stopped for world.
+[01:06:15] [Server thread/INFO]: There are 0 of a max of 100 players online: 
+[01:11:17] [User Authenticator #0/INFO]: UUID of player Katushi7w7 is 526c26f8-c3b0-37e4-93c2-24ddc5426f20
+[01:11:17] [Server thread/INFO]: Katushi7w7 joined the game
+[01:11:17] [Server thread/INFO]: Katushi7w7[/127.195.52.134:34727] logged in with entity id 23528 at ([world]5.796175959052867, 70.0, 34.98628163824205)
+[01:11:32] [Server thread/INFO]: Katushi7w7 issued server command: /weather clear
+[01:11:32] [Server thread/INFO]: [Katushi7w7: Set the weather to clear]
+[01:11:35] [Server thread/INFO]: Katushi7w7 issued server command: /time set day
+[01:11:35] [Server thread/INFO]: [Katushi7w7: Set the time to 1000]
+[01:12:10] [Server thread/INFO]: Katushi7w7 has made the advancement [Stone Age]
+[01:12:30] [Server thread/INFO]: Katushi7w7 has made the advancement [Getting an Upgrade]
+[01:15:25] [Server thread/INFO]: Katushi7w7 has made the advancement [Acquire Hardware]
