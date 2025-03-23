@@ -64,3 +64,13 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:55:19] [Server thread/INFO]: Timings Reset
 [18:00:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [18:06:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[18:15:47] [User Authenticator #0/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[18:15:47] [Server thread/INFO]: Zaffa_uwu joined the game
+[18:15:47] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:60309] logged in with entity id 193 at ([world]-195.2289208967175, 127.0, 415.74451514032035)
+[18:18:20] [Server thread/WARN]: Zaffa_uwu was kicked due to keepalive timeout!
+[18:18:20] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[18:18:20] [Server thread/INFO]: Zaffa_uwu left the game
+[18:19:00] [User Authenticator #1/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[18:19:00] [Server thread/INFO]: Zaffa_uwu joined the game
+[18:19:00] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:51921] logged in with entity id 750 at ([world]-240.94322144103413, 115.0, 409.06559731113254)
+[18:21:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
