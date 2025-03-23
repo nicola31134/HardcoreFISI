@@ -1,21 +1,21 @@
-[04:03:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:03:39] [ServerMain/INFO]: Loaded 7 recipes
-[04:03:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:03:40] [Server thread/INFO]: Loading properties
-[04:03:40] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[04:03:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:03:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:03:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[05:01:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:01:30] [ServerMain/INFO]: Loaded 7 recipes
+[05:01:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[05:01:30] [Server thread/INFO]: Loading properties
+[05:01:31] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[05:01:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:01:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:01:32] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[04:03:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[04:03:41] [Server thread/INFO]: Default game type: SURVIVAL
-[04:03:41] [Server thread/INFO]: Generating keypair
-[04:03:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:03:41] [Server thread/INFO]: Using epoll channel type
-[04:03:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:03:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[04:03:41] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
+[05:01:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[05:01:32] [Server thread/INFO]: Default game type: SURVIVAL
+[05:01:32] [Server thread/INFO]: Generating keypair
+[05:01:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:01:33] [Server thread/INFO]: Using epoll channel type
+[05:01:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:01:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[05:01:33] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ProtocolLib]. Please download and install these plugins to run 'Orebfuscator'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
@@ -25,75 +25,40 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:03:41] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[04:03:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[04:03:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:03:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[04:03:41] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[04:03:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[04:03:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[04:03:42] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[04:03:42] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[04:03:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:03:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:03:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:03:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:03:42] [Server thread/INFO]: Preparing level "world"
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[04:03:42] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[04:03:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:03:43] [Server thread/INFO]: Time elapsed: 336 ms
-[04:03:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:03:43] [Server thread/INFO]: Time elapsed: 83 ms
-[04:03:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:03:43] [Server thread/INFO]: Time elapsed: 74 ms
-[04:03:43] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[04:03:44] [Server thread/INFO]: Running delayed init tasks
-[04:03:44] [Server thread/INFO]: Done (3.993s)! For help, type "help"
-[04:03:44] [Server thread/INFO]: Timings Reset
-[04:04:00] [User Authenticator #0/INFO]: UUID of player RodrigoGS is ecbb37bb-ddfe-315b-88fa-42d46f20a136
-[04:04:01] [Server thread/INFO]: RodrigoGS joined the game
-[04:04:01] [Server thread/INFO]: RodrigoGS[/127.46.210.37:37901] logged in with entity id 97 at ([world]19.5, 89.0, 6.5)
-[04:09:02] [Server thread/INFO]: RodrigoGS has made the advancement [Stone Age]
-[04:10:01] [Server thread/INFO]: RodrigoGS has made the advancement [Getting an Upgrade]
-[04:14:33] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[04:18:10] [Server thread/INFO]: RodrigoGS was slain by Zombie
-[04:18:19] [Server thread/INFO]: [Not Secure] [Server] ;'v
-[04:18:29] [Async Chat Thread - #1/INFO]: [Not Secure] <RodrigoGS> :,w
-[04:22:06] [Server thread/INFO]: RodrigoGS has made the advancement [Monster Hunter]
-[04:23:58] [Server thread/INFO]: RodrigoGS fell from a high place
-[04:24:56] [Server thread/INFO]: RodrigoGS has made the advancement [Acquire Hardware]
-[04:25:11] [Server thread/INFO]: RodrigoGS has made the advancement [Isn't It Iron Pick]
-[04:26:13] [Server thread/INFO]: RodrigoGS has made the advancement [Not Today, Thank You]
-[04:26:43] [Server thread/INFO]: RodrigoGS was doomed to fall by Spider
-[04:28:22] [Server thread/INFO]: RodrigoGS was shot by Skeleton
-[04:31:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[04:33:32] [Server thread/INFO]: RodrigoGS has made the advancement [Suit Up]
-[04:35:42] [Server thread/INFO]: RodrigoGS has completed the challenge [It Spreads]
-[04:36:02] [Server thread/INFO]: RodrigoGS was slain by Zombie
-[04:36:22] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[04:38:33] [Async Chat Thread - #2/INFO]: [Not Secure] <RodrigoGS> tmr el wardeeeeen
-[04:39:11] [Server thread/INFO]: RodrigoGS was shot by Skeleton
-[04:39:15] [Server thread/INFO]: [Not Secure] [Server] XDD
-[04:39:24] [Server thread/INFO]: [Not Secure] [Server] menos mal no es hardcore
-[04:39:28] [Async Chat Thread - #3/INFO]: [Not Secure] <RodrigoGS> xd
-[04:42:46] [Server thread/INFO]: RodrigoGS was obliterated by a sonically-charged shriek
-[04:42:54] [Async Chat Thread - #4/INFO]: [Not Secure] <RodrigoGS> :`w
-[04:44:06] [Server thread/INFO]: RodrigoGS has made the advancement [Sneak 100]
-[04:44:10] [Server thread/INFO]: [Not Secure] [Server] pipipi
-[04:44:26] [Server thread/INFO]: RodrigoGS was obliterated by a sonically-charged shriek
-[04:44:34] [Async Chat Thread - #6/INFO]: [Not Secure] <RodrigoGS> k sad :,w
-[04:45:44] [Server thread/INFO]: RodrigoGS was obliterated by a sonically-charged shriek
-[04:47:26] [Server thread/INFO]: RodrigoGS lost connection: Disconnected
-[04:47:26] [Server thread/INFO]: RodrigoGS left the game
+[05:01:33] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[05:01:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[05:01:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:01:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[05:01:33] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[05:01:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[05:01:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[05:01:34] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[05:01:34] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[05:01:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:01:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:01:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:01:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:01:34] [Server thread/INFO]: Preparing level "world"
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:01:35] [Server thread/INFO]: Time elapsed: 316 ms
+[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:01:35] [Server thread/INFO]: Time elapsed: 73 ms
+[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:01:35] [Server thread/INFO]: Time elapsed: 56 ms
+[05:01:35] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[05:01:36] [Server thread/INFO]: Running delayed init tasks
+[05:01:36] [Server thread/INFO]: Done (5.240s)! For help, type "help"
+[05:01:36] [Server thread/INFO]: Timings Reset
