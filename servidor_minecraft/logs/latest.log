@@ -224,3 +224,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:09:24] [Server thread/INFO]: Zaffa_uwu has made the advancement [Monster Hunter]
 [03:24:32] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [03:25:52] [Server thread/INFO]: Zaffa_uwu has made the advancement [Light as a Rabbit]
+[03:27:57] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[03:27:57] [Server thread/INFO]: Zaffa_uwu left the game
