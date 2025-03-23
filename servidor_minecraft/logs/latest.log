@@ -83,3 +83,58 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [18:34:40] [User Authenticator #2/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
 [18:34:40] [Server thread/INFO]: Zaffa_uwu joined the game
 [18:34:40] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:49465] logged in with entity id 3254 at ([world]-79.65204687204059, 96.55383808212872, -343.9880266884698)
+[18:37:32] [Server thread/WARN]: Zaffa_uwu moved too quickly! -10.367055804213976,7.0,-39.0971412830487
+[18:38:25] [Server thread/WARN]: Zaffa_uwu was kicked due to keepalive timeout!
+[18:38:25] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[18:38:25] [Server thread/INFO]: Zaffa_uwu left the game
+[18:38:55] [User Authenticator #3/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[18:38:55] [Server thread/INFO]: Zaffa_uwu joined the game
+[18:38:55] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:52477] logged in with entity id 4504 at ([world]-207.14065748286976, 111.0, -883.1675270900785)
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.333573823916609,0.0,-18.825510441362894
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.343674631779706,0.0,-19.214776854755428
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.348425085753206,0.0,-19.60488044440467
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.349081420558775,0.0,-19.995809606834655
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.346706592418855,0.0,-20.38753576420413
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.342189148700484,0.0,-20.78001842195522
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.3362718295419,0.0,-21.173209925588253
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.329569766534249,0.0,-21.567058575743204
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.322586931558561,0.0,-21.961511044342387
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.315738660995265,0.0,-22.3565142846237
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.309356626493525,0.0,-22.752016590793346
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.303708669301443,0.0,-23.147968540538614
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.299001327734089,0.0,-23.5443235191874
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.295393626621433,0.0,-23.94103804616725
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.293001824801792,0.0,-24.33807196823409
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.291911360086502,0.0,-24.73538838378522
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.292176099553103,0.0,-25.13295373120127
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.293825334483344,0.0,-25.53073764111332
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.2968700752252005,0.0,-25.928712702858547
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.3013048833611975,0.0,-26.32685433624829
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.307113352121007,0.0,-26.725140501069518
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.314265376528908,0.0,-27.123551722484308
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.322722358294612,0.0,-27.52207076743707
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.332441887770145,0.0,-27.920682301266652
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.34337812799609,0.0,-28.319372746295812
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.355482159062632,0.0,-28.71813015828684
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.368702288965821,0.0,-29.116944104075856
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.382984332214008,0.0,-29.515805543992883
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.398271861272164,0.0,-29.914706726039867
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.414510260131877,0.0,-30.313640848507475
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.431646543624282,0.0,-30.712601979847477
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.4496291955002505,0.0,-31.111584982832028
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.468408021771182,0.0,-31.51058544629791
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.487934018948621,0.0,-31.90959962371585
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.508159256391153,0.0,-32.30862437417727
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.529040594892862,0.0,-32.70765685223819
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.550535381899294,0.0,-33.106694735417705
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.572601403308028,0.0,-33.50573618307749
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.595200665729379,0.0,-33.90477953119262
+[18:40:30] [Server thread/WARN]: Boat (vehicle of Zaffa_uwu) moved too quickly! 7.618295148541932,0.0,-34.303823535460424
+[18:42:53] [Server thread/WARN]: Zaffa_uwu moved too quickly! 4.802797697164067,2.88922865624577,-8.404846782921823
+[18:42:55] [Server thread/WARN]: Zaffa_uwu was kicked due to keepalive timeout!
+[18:42:55] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[18:42:56] [Server thread/INFO]: Zaffa_uwu left the game
+[18:42:59] [User Authenticator #4/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[18:42:59] [Server thread/INFO]: Zaffa_uwu joined the game
+[18:42:59] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:60207] logged in with entity id 6191 at ([world]-150.6635601938621, 64.55250210301658, -1288.9746443300255)
+[18:44:25] [Server thread/WARN]: Zaffa_uwu moved too quickly! -5.291228604927539,0.0,-8.596751165757496
