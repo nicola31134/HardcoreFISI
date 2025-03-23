@@ -1,21 +1,21 @@
-[05:01:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:01:30] [ServerMain/INFO]: Loaded 7 recipes
-[05:01:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[05:01:30] [Server thread/INFO]: Loading properties
-[05:01:31] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[05:01:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:01:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:01:32] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[17:55:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:55:14] [ServerMain/INFO]: Loaded 7 recipes
+[17:55:14] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:55:14] [Server thread/INFO]: Loading properties
+[17:55:15] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[17:55:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:55:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:55:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[05:01:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[05:01:32] [Server thread/INFO]: Default game type: SURVIVAL
-[05:01:32] [Server thread/INFO]: Generating keypair
-[05:01:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:01:33] [Server thread/INFO]: Using epoll channel type
-[05:01:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:01:33] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[05:01:33] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
+[17:55:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[17:55:16] [Server thread/INFO]: Default game type: SURVIVAL
+[17:55:16] [Server thread/INFO]: Generating keypair
+[17:55:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:55:16] [Server thread/INFO]: Using epoll channel type
+[17:55:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:55:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:55:16] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ProtocolLib]. Please download and install these plugins to run 'Orebfuscator'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
@@ -25,40 +25,41 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[05:01:33] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[05:01:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[05:01:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:01:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[05:01:33] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[05:01:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[05:01:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:01:34] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[05:01:34] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[05:01:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:01:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:01:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:01:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:01:34] [Server thread/INFO]: Preparing level "world"
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:01:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:01:35] [Server thread/INFO]: Time elapsed: 316 ms
-[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:01:35] [Server thread/INFO]: Time elapsed: 73 ms
-[05:01:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:01:35] [Server thread/INFO]: Time elapsed: 56 ms
-[05:01:35] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[05:01:36] [Server thread/INFO]: Running delayed init tasks
-[05:01:36] [Server thread/INFO]: Done (5.240s)! For help, type "help"
-[05:01:36] [Server thread/INFO]: Timings Reset
+[17:55:16] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[17:55:16] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[17:55:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:55:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[17:55:17] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[17:55:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[17:55:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:55:18] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[17:55:18] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[17:55:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:55:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:55:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:55:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:55:18] [Server thread/INFO]: Preparing level "world"
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:55:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:55:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:55:19] [Server thread/INFO]: Time elapsed: 331 ms
+[17:55:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:55:19] [Server thread/INFO]: Time elapsed: 78 ms
+[17:55:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:55:19] [Server thread/INFO]: Time elapsed: 55 ms
+[17:55:19] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[17:55:19] [Server thread/INFO]: Running delayed init tasks
+[17:55:19] [Server thread/INFO]: Done (4.823s)! For help, type "help"
+[17:55:19] [Server thread/INFO]: Timings Reset
+[18:00:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
