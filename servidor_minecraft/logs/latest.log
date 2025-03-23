@@ -1581,3 +1581,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:08:12] [Server thread/INFO]: Zaffa_uwu joined the game
 [19:08:12] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:36943] logged in with entity id 12942 at ([world]618.7731030128201, 62.073264324665075, -1204.3409381622891)
 [19:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
+[19:17:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[19:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5339ms or 106 ticks behind
