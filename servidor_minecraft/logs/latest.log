@@ -74,3 +74,12 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [18:19:00] [Server thread/INFO]: Zaffa_uwu joined the game
 [18:19:00] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:51921] logged in with entity id 750 at ([world]-240.94322144103413, 115.0, 409.06559731113254)
 [18:21:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[18:25:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[18:31:13] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[18:34:29] [Server thread/WARN]: Zaffa_uwu moved too quickly! -12.24231138045512,1.6709083839322858,-19.472725807639563
+[18:34:33] [Server thread/WARN]: Zaffa_uwu was kicked for floating too long!
+[18:34:33] [Server thread/INFO]: Zaffa_uwu lost connection: Flying is not enabled on this server
+[18:34:33] [Server thread/INFO]: Zaffa_uwu left the game
+[18:34:40] [User Authenticator #2/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[18:34:40] [Server thread/INFO]: Zaffa_uwu joined the game
+[18:34:40] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:49465] logged in with entity id 3254 at ([world]-79.65204687204059, 96.55383808212872, -343.9880266884698)
