@@ -67,3 +67,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [04:04:01] [Server thread/INFO]: RodrigoGS[/127.46.210.37:37901] logged in with entity id 97 at ([world]19.5, 89.0, 6.5)
 [04:09:02] [Server thread/INFO]: RodrigoGS has made the advancement [Stone Age]
 [04:10:01] [Server thread/INFO]: RodrigoGS has made the advancement [Getting an Upgrade]
+[04:14:33] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:18:10] [Server thread/INFO]: RodrigoGS was slain by Zombie
+[04:18:19] [Server thread/INFO]: [Not Secure] [Server] ;'v
+[04:18:29] [Async Chat Thread - #1/INFO]: [Not Secure] <RodrigoGS> :,w
+[04:22:06] [Server thread/INFO]: RodrigoGS has made the advancement [Monster Hunter]
