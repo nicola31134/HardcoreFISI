@@ -1583,3 +1583,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [19:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
 [19:17:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [19:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5339ms or 106 ticks behind
+[19:28:36] [Server thread/INFO]: Zaffa_uwu has made the advancement [Best Friends Forever]
+[19:30:25] [Server thread/INFO]: Zaffa_uwu lost connection: Disconnected
+[19:30:26] [Server thread/INFO]: Zaffa_uwu left the game
+[19:34:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
