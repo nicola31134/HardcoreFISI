@@ -63,3 +63,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [17:55:19] [Server thread/INFO]: Done (4.823s)! For help, type "help"
 [17:55:19] [Server thread/INFO]: Timings Reset
 [18:00:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[18:06:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
