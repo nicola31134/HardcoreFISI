@@ -843,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-24 03:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-03-24 03:32:55 +0000"
@@ -875,6 +881,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-03-24 03:43:56 +0000",
       "minecraft:chicken": "2025-03-24 03:17:03 +0000"
     },
     "done": false
