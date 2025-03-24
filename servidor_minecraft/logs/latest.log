@@ -84,3 +84,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [01:48:24] [Server thread/INFO]: BR1_PE was shot by Skeleton
 [01:48:54] [Server thread/INFO]: BR1_PE was shot by Skeleton
 [01:52:06] [Server thread/INFO]: There are 1 of a max of 100 players online: BR1_PE
+[01:58:41] [Server thread/INFO]: BR1_PE has made the advancement [Acquire Hardware]
+[02:00:13] [Server thread/INFO]: BR1_PE has made the advancement [Sweet Dreams]
+[02:02:45] [Server thread/INFO]: There are 1 of a max of 100 players online: BR1_PE
+[02:06:28] [Server thread/INFO]: BR1_PE lost connection: Disconnected
+[02:06:28] [Server thread/INFO]: BR1_PE left the game
