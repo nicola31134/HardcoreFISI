@@ -66,3 +66,9 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [01:09:39] [Server thread/INFO]: There are 0 of a max of 100 players online: 
 [01:11:58] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [01:15:19] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:21:12] [User Authenticator #0/INFO]: UUID of player VENDOTERRENOXD is 3cd04c3d-350b-35a7-881c-8c30ce269ac6
+[01:21:12] [Server thread/INFO]: VENDOTERRENOXD joined the game
+[01:21:13] [Server thread/INFO]: VENDOTERRENOXD[/127.254.137.50:51767] logged in with entity id 185 at ([world]26.5, 99.0, -3.5)
+[01:22:00] [Server thread/INFO]: VENDOTERRENOXD lost connection: Disconnected
+[01:22:00] [Server thread/INFO]: VENDOTERRENOXD left the game
+[01:27:03] [Server thread/INFO]: Unknown command. Type "/help" for help.
