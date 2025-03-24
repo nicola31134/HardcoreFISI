@@ -62,3 +62,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [00:57:21] [Server thread/INFO]: Running delayed init tasks
 [00:57:21] [Server thread/INFO]: Done (4.598s)! For help, type "help"
 [00:57:21] [Server thread/INFO]: Timings Reset
+[01:09:38] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:09:39] [Server thread/INFO]: There are 0 of a max of 100 players online: 
+[01:11:58] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[01:15:19] [Server thread/INFO]: Unknown command. Type "/help" for help.
