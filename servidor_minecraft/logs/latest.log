@@ -80,3 +80,7 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [01:45:10] [Server thread/INFO]: BR1_PE has made the advancement [Monster Hunter]
 [01:45:48] [Server thread/INFO]: BR1_PE has made the advancement [Stone Age]
 [01:46:59] [Server thread/INFO]: BR1_PE was shot by Skeleton
+[01:47:59] [Server thread/INFO]: BR1_PE has made the advancement [Getting an Upgrade]
+[01:48:24] [Server thread/INFO]: BR1_PE was shot by Skeleton
+[01:48:54] [Server thread/INFO]: BR1_PE was shot by Skeleton
+[01:52:06] [Server thread/INFO]: There are 1 of a max of 100 players online: BR1_PE
