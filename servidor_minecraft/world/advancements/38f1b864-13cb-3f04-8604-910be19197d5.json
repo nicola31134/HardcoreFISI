@@ -26,6 +26,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-03-23 19:00:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-23 03:23:42 +0000",
       "minecraft:meadow": "2025-03-23 18:33:33 +0000",
+      "minecraft:savanna": "2025-03-24 04:48:02 +0000",
       "minecraft:plains": "2025-03-23 18:30:38 +0000"
     },
     "done": false
@@ -1162,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-24 04:46:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:35:57 +0000"
@@ -1171,6 +1178,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-24 04:46:44 +0000"
     },
     "done": true
   },
@@ -1207,6 +1220,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 04:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-24 04:46:44 +0000"
     },
     "done": true
   },
