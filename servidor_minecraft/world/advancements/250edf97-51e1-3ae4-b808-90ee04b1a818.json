@@ -642,7 +642,8 @@
       "tropical_fish": "2025-03-24 04:03:21 +0000",
       "cooked_cod": "2025-03-24 03:35:26 +0000",
       "rotten_flesh": "2025-03-24 03:15:30 +0000",
-      "dried_kelp": "2025-03-24 02:56:53 +0000"
+      "dried_kelp": "2025-03-24 02:56:53 +0000",
+      "cooked_salmon": "2025-03-24 04:11:32 +0000"
     },
     "done": false
   },
@@ -1082,6 +1083,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-24 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-24 03:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-03-24 04:01:03 +0000"
@@ -1094,15 +1107,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "has_gray_wool": "2025-03-24 03:55:36 +0000"
+      "has_bamboo": "2025-03-24 04:08:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_gray_wool": "2025-03-24 03:55:36 +0000"
+      "has_bamboo": "2025-03-24 04:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-24 04:08:18 +0000"
     },
     "done": true
   },
