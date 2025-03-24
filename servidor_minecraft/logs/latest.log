@@ -156,3 +156,10 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:15:36] [Server thread/INFO]: ElHueverto_04 has made the advancement [Not Today, Thank You]
 [03:17:03] [Server thread/INFO]: ElHueverto_04 has made the advancement [The Parrots and the Bats]
 [03:18:36] [Server thread/INFO]: ElHueverto_04 has made the advancement [A Seedy Place]
+[03:32:07] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:32:10] [Server thread/INFO]: There are 1 of a max of 100 players online: ElHueverto_04
+[03:32:55] [Server thread/INFO]: ElHueverto_04 has made the advancement [Fishy Business]
+[03:38:24] [User Authenticator #6/INFO]: UUID of player BR1_PE is 20e52d94-279e-3e18-9428-e236f80316d5
+[03:38:24] [Server thread/INFO]: BR1_PE joined the game
+[03:38:24] [Server thread/INFO]: BR1_PE[/127.24.27.102:45235] logged in with entity id 17259 at ([world]340.2651589502811, 71.0, 364.9334496433235)
+[03:38:30] [Async Chat Thread - #14/INFO]: [Not Secure] <BR1_PE> sexo sexo sexo
