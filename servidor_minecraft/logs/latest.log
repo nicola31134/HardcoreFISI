@@ -359,3 +359,28 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:48:18] [Paper Watchdog Thread/ERROR]: ------------------------------
 [03:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10770ms or 215 ticks behind
 [03:48:19] [Server thread/WARN]: BR1_PE moved too quickly! -0.0033642187840996485,10.086535016065156,0.0033834014101330467
+[03:49:06] [Server thread/WARN]: BR1_PE moved wrongly!
+[03:49:33] [Server thread/INFO]: BR1_PE has made the advancement [Diamonds!]
+[03:49:37] [Async Chat Thread - #19/INFO]: [Not Secure] <ElHueverto_04> gozu
+[03:52:02] [Async Chat Thread - #21/INFO]: [Not Secure] <BR1_PE> XDDDD
+[03:52:04] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
+[03:52:04] [Server thread/INFO]: ElHueverto_04 left the game
+[03:52:20] [User Authenticator #7/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
+[03:52:20] [Server thread/INFO]: ElHueverto_04 joined the game
+[03:52:20] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:42119] logged in with entity id 20084 at ([world]363.966669777348, 68.0, 383.383922319422)
+[03:53:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:53:57] [Async Chat Thread - #23/INFO]: [Not Secure] <BR1_PE> ya las pelaste?
+[03:54:00] [Async Chat Thread - #24/INFO]: [Not Secure] <ElHueverto_04> no
+[03:54:04] [Async Chat Thread - #23/INFO]: [Not Secure] <BR1_PE> xd
+[03:54:15] [Async Chat Thread - #24/INFO]: [Not Secure] <BR1_PE> ahí te hago tijeras
+[03:55:09] [Async Chat Thread - #23/INFO]: [Not Secure] <ElHueverto_04> pera
+[03:55:52] [Async Chat Thread - #24/INFO]: [Not Secure] <ElHueverto_04> tmr crafteate una puerta de valla pe
+[03:56:01] [Async Chat Thread - #23/INFO]: [Not Secure] <BR1_PE> XD
+[03:56:46] [Async Chat Thread - #24/INFO]: [Not Secure] <BR1_PE> Q MRD
+[03:56:49] [Async Chat Thread - #23/INFO]: [Not Secure] <ElHueverto_04> xd?
+[03:56:57] [Async Chat Thread - #24/INFO]: [Not Secure] <ElHueverto_04> se extendieron las vacaciones?
+[03:56:59] [Async Chat Thread - #23/INFO]: [Not Secure] <BR1_PE> decía mapa del tesoro y me salió como mapa normal xd
+[03:57:00] [Async Chat Thread - #24/INFO]: [Not Secure] <ElHueverto_04> xddddddddddd
+[03:57:11] [Async Chat Thread - #23/INFO]: [Not Secure] <ElHueverto_04> XD
+[03:57:44] [Async Chat Thread - #24/INFO]: [Not Secure] <BR1_PE> voy a por un mapa
+[03:58:26] [Async Chat Thread - #23/INFO]: [Not Secure] <BR1_PE> xd
