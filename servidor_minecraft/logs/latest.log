@@ -89,3 +89,4 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [02:02:45] [Server thread/INFO]: There are 1 of a max of 100 players online: BR1_PE
 [02:06:28] [Server thread/INFO]: BR1_PE lost connection: Disconnected
 [02:06:28] [Server thread/INFO]: BR1_PE left the game
+[02:20:00] [Server thread/INFO]: Unknown command. Type "/help" for help.
