@@ -151,3 +151,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [03:01:39] [Async Chat Thread - #13/INFO]: [Not Secure] <ElHueverto_04> XD
 [03:02:06] [Server thread/INFO]: BR1_PE lost connection: Disconnected
 [03:02:06] [Server thread/INFO]: BR1_PE left the game
+[03:08:50] [Server thread/INFO]: There are 1 of a max of 100 players online: ElHueverto_04
+[03:12:59] [Server thread/INFO]: ElHueverto_04 has made the advancement [Monster Hunter]
+[03:15:36] [Server thread/INFO]: ElHueverto_04 has made the advancement [Not Today, Thank You]
+[03:17:03] [Server thread/INFO]: ElHueverto_04 has made the advancement [The Parrots and the Bats]
+[03:18:36] [Server thread/INFO]: ElHueverto_04 has made the advancement [A Seedy Place]
