@@ -19,6 +19,7 @@
       "minecraft:stony_shore": "2025-03-23 18:43:17 +0000",
       "minecraft:grove": "2025-03-23 03:05:21 +0000",
       "minecraft:forest": "2025-03-23 03:01:06 +0000",
+      "minecraft:desert": "2025-03-24 04:21:36 +0000",
       "minecraft:jungle": "2025-03-23 18:49:38 +0000",
       "minecraft:ocean": "2025-03-23 19:07:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-23 19:00:38 +0000",
@@ -1133,6 +1134,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-03-23 19:28:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-03-24 04:25:38 +0000"
     },
     "done": true
   },

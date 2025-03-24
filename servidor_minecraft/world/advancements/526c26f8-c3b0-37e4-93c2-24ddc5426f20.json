@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-24 04:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-03-24 04:10:30 +0000"
@@ -26,9 +32,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-03-24 04:11:09 +0000",
+      "minecraft:bamboo_jungle": "2025-03-24 04:16:03 +0000",
+      "minecraft:dark_forest": "2025-03-24 04:16:05 +0000",
+      "minecraft:sparse_jungle": "2025-03-24 04:15:31 +0000",
       "minecraft:river": "2025-03-24 04:14:56 +0000",
       "minecraft:stony_shore": "2025-03-24 04:10:51 +0000",
       "minecraft:forest": "2025-03-24 04:10:28 +0000",
+      "minecraft:jungle": "2025-03-24 04:15:34 +0000",
       "minecraft:ocean": "2025-03-24 04:10:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-24 04:15:06 +0000"
     },
