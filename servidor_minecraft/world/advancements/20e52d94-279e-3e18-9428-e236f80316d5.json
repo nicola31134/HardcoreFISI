@@ -366,6 +366,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-03-24 03:01:19 +0000",
       "rotten_flesh": "2025-03-24 01:49:45 +0000",
       "dried_kelp": "2025-03-24 02:46:14 +0000"
     },
