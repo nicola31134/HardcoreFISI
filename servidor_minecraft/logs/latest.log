@@ -113,3 +113,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 [02:31:44] [Async Chat Thread - #13/INFO]: [Not Secure] <mostacho56> taba calato p
 [02:35:10] [Server thread/INFO]: ElHueverto_04 has made the advancement [The Cutest Predator]
 [02:35:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:45:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:45:46] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
+[02:45:46] [Server thread/INFO]: ElHueverto_04 left the game
+[02:50:57] [Server thread/INFO]: mostacho56 lost connection: Disconnected
+[02:50:57] [Server thread/INFO]: mostacho56 left the game

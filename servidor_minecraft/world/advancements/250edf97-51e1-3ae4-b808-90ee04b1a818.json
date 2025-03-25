@@ -644,6 +644,7 @@
       "tropical_fish": "2025-03-24 04:03:21 +0000",
       "cooked_cod": "2025-03-24 03:35:26 +0000",
       "pufferfish": "2025-03-24 04:49:05 +0000",
+      "bread": "2025-03-25 02:41:16 +0000",
       "rotten_flesh": "2025-03-24 03:15:30 +0000",
       "dried_kelp": "2025-03-24 02:56:53 +0000",
       "cooked_salmon": "2025-03-24 04:11:32 +0000"
@@ -1167,6 +1168,18 @@
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-03-25 02:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-25 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-25 02:45:03 +0000"
     },
     "done": true
   },
