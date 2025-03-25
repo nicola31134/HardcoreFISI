@@ -1,21 +1,21 @@
-[01:31:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:31:39] [ServerMain/INFO]: Loaded 7 recipes
-[01:31:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:31:39] [Server thread/INFO]: Loading properties
-[01:31:40] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[01:31:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:31:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:31:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[23:24:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:24:56] [ServerMain/INFO]: Loaded 7 recipes
+[23:24:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[23:24:56] [Server thread/INFO]: Loading properties
+[23:24:56] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[23:24:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:24:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:24:57] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[01:31:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[01:31:41] [Server thread/INFO]: Default game type: SURVIVAL
-[01:31:41] [Server thread/INFO]: Generating keypair
-[01:31:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:31:41] [Server thread/INFO]: Using epoll channel type
-[01:31:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:31:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:31:41] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
+[23:24:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[23:24:57] [Server thread/INFO]: Default game type: SURVIVAL
+[23:24:57] [Server thread/INFO]: Generating keypair
+[23:24:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:24:57] [Server thread/INFO]: Using epoll channel type
+[23:24:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:24:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:24:57] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Could not load 'plugins/orebfuscator-plugin-5.5.2.jar' in 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [ProtocolLib]. Please download and install these plugins to run 'Orebfuscator'.
 	at io.papermc.paper.plugin.entrypoint.strategy.modern.ModernPluginLoadingStrategy.loadProviders(ModernPluginLoadingStrategy.java:82) ~[paper-1.20.1.jar:git-Paper-196]
 	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.20.1.jar:git-Paper-196]
@@ -25,96 +25,48 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[01:31:41] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
-[01:31:41] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[01:31:41] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:31:41] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[01:31:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:31:42] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[01:31:43] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:31:43] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[01:31:43] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[01:31:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:31:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:31:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:31:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:31:43] [Server thread/INFO]: Preparing level "world"
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:31:43] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:31:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:31:44] [Server thread/INFO]: Time elapsed: 389 ms
-[01:31:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:31:44] [Server thread/INFO]: Time elapsed: 207 ms
-[01:31:44] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:31:44] [Server thread/INFO]: Time elapsed: 78 ms
-[01:31:44] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
-[01:31:44] [Server thread/INFO]: Running delayed init tasks
-[01:31:44] [Server thread/INFO]: Done (4.944s)! For help, type "help"
-[01:31:44] [Server thread/INFO]: Timings Reset
-[01:32:28] [User Authenticator #0/INFO]: UUID of player mostacho56 is 1c665002-a36c-35d6-b985-b275439c280d
-[01:32:28] [Server thread/INFO]: mostacho56 joined the game
-[01:32:28] [Server thread/INFO]: mostacho56[/127.214.139.0:46167] logged in with entity id 86 at ([world]26.5, 91.0, -9.5)
-[01:32:38] [Async Chat Thread - #1/INFO]: [Not Secure] <mostacho56> eey muy buenas a todos guapisimos
-[01:33:37] [Server thread/INFO]: mostacho56 has made the advancement [Stone Age]
-[01:33:44] [Server thread/INFO]: mostacho56 has made the advancement [Getting an Upgrade]
-[01:37:41] [Server thread/INFO]: mostacho56 has made the advancement [Monster Hunter]
-[01:43:00] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[01:43:12] [Server thread/INFO]: [Not Secure] [Server] va lag o va bien?
-[01:43:13] [Server thread/INFO]: There are 1 of a max of 100 players online: mostacho56
-[01:43:29] [Async Chat Thread - #2/INFO]: [Not Secure] <mostacho56> va bien, nomas que los mobs se tepean unos 3 cm cada cuanto
-[01:43:38] [Async Chat Thread - #3/INFO]: [Not Secure] <mostacho56> osea su movimiento es como a menos fps medio raro
-[01:43:41] [Async Chat Thread - #2/INFO]: [Not Secure] <mostacho56> pero el server en si va bien
-[01:44:14] [Server thread/INFO]: [Not Secure] [Server] jaksdj okok, yo cuando probé sentí lag de ping por eso preguntaba
-[01:44:38] [Async Chat Thread - #3/INFO]: [Not Secure] <mostacho56> aaa vava
-[01:56:06] [Server thread/INFO]: mostacho56 has made the advancement [Acquire Hardware]
-[02:00:31] [Server thread/INFO]: mostacho56 has made the advancement [Isn't It Iron Pick]
-[02:02:07] [User Authenticator #1/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
-[02:02:07] [Server thread/INFO]: ElHueverto_04 joined the game
-[02:02:07] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:40589] logged in with entity id 3267 at ([world]364.69999998807907, 63.0, 343.14522492903365)
-[02:02:11] [Async Chat Thread - #4/INFO]: [Not Secure] <mostacho56> ooomaga
-[02:03:11] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:03:11] [Server thread/INFO]: mostacho56 has made the advancement [Not Today, Thank You]
-[02:03:12] [Server thread/INFO]: There are 2 of a max of 100 players online: mostacho56, ElHueverto_04
-[02:11:30] [Async Chat Thread - #6/INFO]: [Not Secure] <mostacho56> cuando se hara de dia :,v
-[02:12:01] [Server thread/INFO]: mostacho56 lost connection: Disconnected
-[02:12:01] [Server thread/INFO]: mostacho56 left the game
-[02:12:01] [Async Chat Thread - #8/INFO]: [Not Secure] <ElHueverto_04> tormenta
-[02:12:06] [Async Chat Thread - #7/INFO]: [Not Secure] <ElHueverto_04> XD
-[02:12:08] [User Authenticator #2/INFO]: UUID of player mostacho56 is 1c665002-a36c-35d6-b985-b275439c280d
-[02:12:08] [Server thread/INFO]: mostacho56 joined the game
-[02:12:08] [Server thread/INFO]: mostacho56[/127.214.139.0:48939] logged in with entity id 5874 at ([world]37.9667458054875, 93.0, -8.664907031341535)
-[02:12:11] [Async Chat Thread - #8/INFO]: [Not Secure] <ElHueverto_04> era tormenta
-[02:12:16] [Async Chat Thread - #7/INFO]: [Not Secure] <mostacho56> aaa con razon
-[02:12:20] [Async Chat Thread - #8/INFO]: [Not Secure] <mostacho56> grax xdd
-[02:23:26] [Server thread/INFO]: mostacho56 has made the advancement [Sweet Dreams]
-[02:23:27] [Async Chat Thread - #9/INFO]: [Not Secure] <mostacho56> zzz
-[02:23:29] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
-[02:23:29] [Server thread/INFO]: ElHueverto_04 left the game
-[02:23:37] [User Authenticator #3/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
-[02:23:37] [Server thread/INFO]: ElHueverto_04 joined the game
-[02:23:37] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:43057] logged in with entity id 9663 at ([world]362.9956967837918, 62.09562412080634, 407.7769361013891)
-[02:23:45] [Async Chat Thread - #10/INFO]: [Not Secure] <mostacho56> wasa
-[02:26:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:26:15] [Server thread/INFO]: There are 2 of a max of 100 players online: mostacho56, ElHueverto_04
-[02:26:34] [Async Chat Thread - #11/INFO]: [Not Secure] <mostacho56> se viene warden gaa
-[02:26:38] [Async Chat Thread - #12/INFO]: [Not Secure] <ElHueverto_04> XD
-[02:31:36] [Server thread/INFO]: mostacho56 has made the advancement [Suit Up]
-[02:31:44] [Async Chat Thread - #13/INFO]: [Not Secure] <mostacho56> taba calato p
-[02:35:10] [Server thread/INFO]: ElHueverto_04 has made the advancement [The Cutest Predator]
-[02:35:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:45:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[02:45:46] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
-[02:45:46] [Server thread/INFO]: ElHueverto_04 left the game
-[02:50:57] [Server thread/INFO]: mostacho56 lost connection: Disconnected
-[02:50:57] [Server thread/INFO]: mostacho56 left the game
+[23:24:57] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.146
+[23:24:57] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[23:24:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:24:57] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[23:24:58] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:24:58] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[23:24:59] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:24:59] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[23:24:59] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[23:24:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:24:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:24:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:24:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:24:59] [Server thread/INFO]: Preparing level "world"
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:24:59] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:24:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:25:00] [Server thread/INFO]: Time elapsed: 371 ms
+[23:25:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:25:00] [Server thread/INFO]: Time elapsed: 88 ms
+[23:25:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:25:00] [Server thread/INFO]: Time elapsed: 85 ms
+[23:25:00] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.146
+[23:25:00] [Server thread/INFO]: Running delayed init tasks
+[23:25:00] [Server thread/INFO]: Done (3.937s)! For help, type "help"
+[23:25:00] [Server thread/INFO]: Timings Reset
+[23:28:56] [User Authenticator #0/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
+[23:28:56] [Server thread/INFO]: ElHueverto_04 joined the game
+[23:28:56] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:57747] logged in with entity id 84 at ([world]351.05030794790287, 66.0, 343.7339116954158)
+[23:29:01] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
+[23:29:01] [Server thread/INFO]: ElHueverto_04 left the game
+[23:29:39] [User Authenticator #0/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
+[23:29:39] [Server thread/INFO]: ElHueverto_04 joined the game
+[23:29:39] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:55729] logged in with entity id 312 at ([world]351.05030794790287, 66.0, 343.7339116954158)
