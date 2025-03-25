@@ -374,9 +374,11 @@
     "criteria": {
       "cooked_mutton": "2025-03-24 04:22:27 +0000",
       "cooked_beef": "2025-03-24 03:01:19 +0000",
+      "cooked_cod": "2025-03-24 05:09:01 +0000",
       "pufferfish": "2025-03-24 03:39:35 +0000",
       "rotten_flesh": "2025-03-24 01:49:45 +0000",
       "dried_kelp": "2025-03-24 02:46:14 +0000",
+      "cooked_chicken": "2025-03-24 05:07:32 +0000",
       "cooked_salmon": "2025-03-24 03:40:13 +0000"
     },
     "done": false
@@ -1341,6 +1343,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-24 05:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-24 04:56:54 +0000"
@@ -1464,6 +1472,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-03-24 04:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-03-24 05:10:35 +0000"
     },
     "done": true
   },
