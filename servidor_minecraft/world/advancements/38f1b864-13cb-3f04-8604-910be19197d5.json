@@ -1409,21 +1409,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_egg": "2025-03-24 05:09:45 +0000"
+      "traded": "2025-03-24 04:57:03 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "cod": "2025-03-24 05:01:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-03-24 05:01:53 +0000"
+      "has_emerald": "2025-03-24 04:57:04 +0000"
     },
     "done": true
   },
@@ -1445,21 +1439,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-03-24 04:57:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-03-24 05:00:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-03-24 05:01:53 +0000"
     },
     "done": true
   },
@@ -1469,39 +1451,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-03-24 05:00:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-03-24 05:01:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-03-24 05:00:07 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-03-24 04:57:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-03-24 05:00:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-03-24 05:00:44 +0000"
     },
     "done": true
   },
@@ -1517,11 +1475,53 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 05:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-24 05:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-24 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-24 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-24 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-24 05:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:jellie": "2025-03-24 05:06:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-24 05:09:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
