@@ -177,3 +177,17 @@ say<--[HERE]
 [02:25:09] [Async Chat Thread - #35/INFO]: [Not Secure] <mostacho56> nel
 [02:25:13] [Async Chat Thread - #36/INFO]: [Not Secure] <mostacho56> me falta diamantes
 [02:25:21] [Async Chat Thread - #36/INFO]: [Not Secure] <mostacho56> sino ya hubiera ido xdd
+[02:30:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:37:38] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:37:40] [Server thread/INFO]: There are 1 of a max of 100 players online: mostacho56
+[02:43:12] [User Authenticator #9/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[02:43:12] [Server thread/INFO]: Zaffa_uwu joined the game
+[02:43:12] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:35355] logged in with entity id 61412 at ([world]588.9473341637128, 79.0, 5061.967933451469)
+[02:43:57] [Server thread/WARN]: Zaffa_uwu was kicked due to keepalive timeout!
+[02:43:57] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[02:43:57] [Server thread/INFO]: Zaffa_uwu left the game
+[02:44:31] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:44:36] [Server thread/INFO]: There are 1 of a max of 100 players online: mostacho56
+[02:44:37] [User Authenticator #10/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[02:44:37] [Server thread/INFO]: Zaffa_uwu joined the game
+[02:44:37] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:33377] logged in with entity id 61813 at ([world]589.6964165010046, 84.0, 5060.645935169631)
