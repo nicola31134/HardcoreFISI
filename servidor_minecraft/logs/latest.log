@@ -191,3 +191,41 @@ say<--[HERE]
 [02:44:37] [User Authenticator #10/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
 [02:44:37] [Server thread/INFO]: Zaffa_uwu joined the game
 [02:44:37] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:33377] logged in with entity id 61813 at ([world]589.6964165010046, 84.0, 5060.645935169631)
+[02:48:26] [Async Chat Thread - #37/INFO]: [Not Secure] <mostacho56> zaffa
+[02:48:29] [Async Chat Thread - #37/INFO]: [Not Secure] <Zaffa_uwu> dime
+[02:48:35] [Async Chat Thread - #38/INFO]: [Not Secure] <mostacho56> tu aldea de la sabana esta lejazos?
+[02:48:41] [Async Chat Thread - #38/INFO]: [Not Secure] <Zaffa_uwu> mhm...
+[02:48:48] [Async Chat Thread - #37/INFO]: [Not Secure] <Zaffa_uwu> 4000 desde el spam xd
+[02:48:51] [Async Chat Thread - #37/INFO]: [Not Secure] <mostacho56> ando en una pero esta por -4200 3400
+[02:48:52] [Async Chat Thread - #38/INFO]: [Not Secure] <mostacho56> a
+[02:52:26] [User Authenticator #11/INFO]: UUID of player Katushi7w7 is 526c26f8-c3b0-37e4-93c2-24ddc5426f20
+[02:52:26] [Server thread/INFO]: Katushi7w7 joined the game
+[02:52:26] [Server thread/INFO]: Katushi7w7[/127.195.52.134:43991] logged in with entity id 63906 at ([world]-3903.0606556636217, 107.0, 2760.4657411589524)
+[02:52:49] [Server thread/INFO]: Katushi7w7 issued server command: /gamemode creative
+[02:52:49] [Server thread/INFO]: [Katushi7w7: Set own game mode to Creative Mode]
+[02:52:52] [Async Chat Thread - #39/INFO]: [Not Secure] <Zaffa_uwu> holi
+[02:52:58] [Server thread/INFO]: Katushi7w7 issued server command: /tp Zaffa_uwu
+[02:52:58] [Server thread/INFO]: [Katushi7w7: Teleported Katushi7w7 to Zaffa_uwu]
+[02:53:05] [Async Chat Thread - #40/INFO]: [Not Secure] <Katushi7w7> y ese gato
+[02:53:43] [Server thread/INFO]: Zaffa_uwu lost connection: Disconnected
+[02:53:43] [Server thread/INFO]: Zaffa_uwu left the game
+[02:53:58] [Server thread/INFO]: Katushi7w7 lost connection: Disconnected
+[02:53:58] [Server thread/INFO]: Katushi7w7 left the game
+[02:54:11] [User Authenticator #12/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[02:54:11] [Server thread/INFO]: Zaffa_uwu joined the game
+[02:54:11] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:57535] logged in with entity id 64539 at ([world]593.5, 72.0, 5097.5)
+[02:54:18] [Async Chat Thread - #41/INFO]: [Not Secure] <mostacho56> ta q rico lag
+[02:54:36] [Server thread/INFO]: Zaffa_uwu was blown up by Creeper
+[02:54:56] [Server thread/WARN]: Zaffa_uwu was kicked due to keepalive timeout!
+[02:54:56] [Server thread/INFO]: Zaffa_uwu lost connection: Timed out
+[02:54:56] [Server thread/INFO]: Zaffa_uwu left the game
+[02:55:19] [User Authenticator #13/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[02:55:19] [Server thread/INFO]: Zaffa_uwu joined the game
+[02:55:19] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:53665] logged in with entity id 65095 at ([world]588.5911141200505, 73.16610926093821, 5097.308592749329)
+[02:55:56] [Server thread/INFO]: Zaffa_uwu was slain by Zombie
+[02:55:59] [Server thread/INFO]: Zaffa_uwu lost connection: Disconnected
+[02:55:59] [Server thread/INFO]: Zaffa_uwu left the game
+[02:56:56] [Server thread/INFO]: Villager EntityVillager['Butcher'/59990, uuid='2f52ebdc-34e0-4067-8bca-923c9a17953e', l='ServerLevel[world]', x=-4186.94, y=64.59, z=3483.54, cpos=[-262, 217], tl=29979, v=true] died, message: 'Butcher was slain by Zombie'
+[02:57:11] [User Authenticator #14/INFO]: UUID of player Zaffa_uwu is 38f1b864-13cb-3f04-8604-910be19197d5
+[02:57:11] [Server thread/INFO]: Zaffa_uwu joined the game
+[02:57:11] [Server thread/INFO]: Zaffa_uwu[/127.132.121.186:46385] logged in with entity id 65771 at ([world]593.5, 72.0, 5097.5)
