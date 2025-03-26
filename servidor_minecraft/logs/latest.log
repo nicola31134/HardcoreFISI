@@ -16,3 +16,8 @@
 [00:16:40] [Server thread/INFO]: There are 2 of a max of 100 players online: ElHueverto_04, mostacho56
 [00:28:15] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
 [00:28:15] [Server thread/INFO]: ElHueverto_04 left the game
+[00:37:42] [User Authenticator #3/INFO]: UUID of player ElHueverto_04 is 250edf97-51e1-3ae4-b808-90ee04b1a818
+[00:37:42] [Server thread/INFO]: ElHueverto_04 joined the game
+[00:37:42] [Server thread/INFO]: ElHueverto_04[/127.165.59.233:41049] logged in with entity id 17011 at ([world]358.9208513195787, 68.0, 373.71022010793666)
+[00:42:45] [Server thread/INFO]: ElHueverto_04 lost connection: Disconnected
+[00:42:45] [Server thread/INFO]: ElHueverto_04 left the game
