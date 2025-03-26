@@ -650,7 +650,8 @@
       "mutton": "2025-03-25 23:46:38 +0000",
       "bread": "2025-03-25 02:21:15 +0000",
       "rotten_flesh": "2025-03-25 01:53:33 +0000",
-      "golden_carrot": "2025-03-26 02:14:50 +0000"
+      "golden_carrot": "2025-03-26 02:14:50 +0000",
+      "cooked_salmon": "2025-03-26 03:11:29 +0000"
     },
     "done": false
   },
@@ -1530,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-03-26 03:11:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-26 00:23:12 +0000"
@@ -1809,6 +1816,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-26 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-03-26 03:11:26 +0000"
     },
     "done": true
   },

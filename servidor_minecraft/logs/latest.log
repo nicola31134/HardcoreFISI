@@ -240,3 +240,22 @@ say<--[HERE]
 [03:07:21] [Async Chat Thread - #45/INFO]: [Not Secure] <mostacho56> q susto ptm
 [03:07:28] [Async Chat Thread - #46/INFO]: [Not Secure] <mostacho56> c troll
 [03:07:35] [Async Chat Thread - #46/INFO]: [Not Secure] <mostacho56> el real invincible
+[03:07:43] [Server thread/INFO]: Katushi7w7 issued server command: /gamemode survival
+[03:07:43] [Server thread/INFO]: [Katushi7w7: Set own game mode to Survival Mode]
+[03:07:55] [Server thread/INFO]: Katushi7w7 issued server command: /gamemode creative
+[03:07:55] [Server thread/INFO]: [Katushi7w7: Set own game mode to Creative Mode]
+[03:07:56] [Async Chat Thread - #45/INFO]: [Not Secure] <mostacho56> yunque gratis wasa
+[03:09:24] [Server thread/INFO]: Katushi7w7 lost connection: Disconnected
+[03:09:24] [Server thread/INFO]: Katushi7w7 left the game
+[03:11:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:11:26] [Server thread/INFO]: mostacho56 has made the advancement [The Parrots and the Bats]
+[03:12:30] [User Authenticator #16/INFO]: UUID of player Katushi7w7 is 526c26f8-c3b0-37e4-93c2-24ddc5426f20
+[03:12:30] [Server thread/INFO]: Katushi7w7 joined the game
+[03:12:30] [Server thread/INFO]: Katushi7w7[/127.195.52.134:57539] logged in with entity id 68541 at ([world]-3930.157940691024, 63.0, 3223.305923437225)
+[03:12:46] [Server thread/INFO]: Katushi7w7 lost connection: Disconnected
+[03:12:46] [Server thread/INFO]: Katushi7w7 left the game
+[03:14:00] [User Authenticator #17/INFO]: UUID of player Katushi7w7 is 526c26f8-c3b0-37e4-93c2-24ddc5426f20
+[03:14:00] [Server thread/INFO]: Katushi7w7 joined the game
+[03:14:00] [Server thread/INFO]: Katushi7w7[/127.195.52.134:40445] logged in with entity id 68992 at ([world]-3850.6326530268802, 84.0, 3345.55222448331)
+[03:14:12] [Server thread/INFO]: Katushi7w7 lost connection: Disconnected
+[03:14:12] [Server thread/INFO]: Katushi7w7 left the game
