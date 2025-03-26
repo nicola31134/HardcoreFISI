@@ -842,7 +842,8 @@
       "minecraft:skeleton": "2025-03-24 03:15:39 +0000",
       "minecraft:spider": "2025-03-24 03:14:17 +0000",
       "minecraft:creeper": "2025-03-24 03:14:37 +0000",
-      "minecraft:zombie": "2025-03-24 03:12:59 +0000"
+      "minecraft:zombie": "2025-03-24 03:12:59 +0000",
+      "minecraft:drowned": "2025-03-25 23:59:54 +0000"
     },
     "done": false
   },
@@ -1187,6 +1188,24 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-03-25 02:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-03-26 00:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-03-26 00:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-03-26 00:00:44 +0000"
     },
     "done": true
   },
