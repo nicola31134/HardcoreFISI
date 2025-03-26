@@ -8,11 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-25 23:55:26 +0000",
+      "minecraft:birch_forest": "2025-03-26 01:12:56 +0000",
       "minecraft:river": "2025-03-26 01:02:22 +0000",
       "minecraft:dripstone_caves": "2025-03-25 02:35:52 +0000",
       "minecraft:grove": "2025-03-25 02:24:41 +0000",
       "minecraft:jagged_peaks": "2025-03-25 02:45:48 +0000",
       "minecraft:forest": "2025-03-25 01:32:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-26 01:12:25 +0000",
       "minecraft:deep_dark": "2025-03-25 23:57:00 +0000",
       "minecraft:meadow": "2025-03-25 02:22:11 +0000",
       "minecraft:plains": "2025-03-25 02:13:26 +0000"
